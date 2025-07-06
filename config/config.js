@@ -3,10 +3,10 @@ var config = {
     name: "阿斌",
     sex: "男",
     age: "23",
-    phone: "19560712985",
-    email: "1093226803@qq.com this`s true",
+    phone: "195607_____",
+    email: "10932_____@qq.com this`s true",
     address: "现居山东省青岛市",
-    qq: "1093226803",
+    qq: "10932_____",
     log: "Xming",
     excpect_work: "Java后端开发/AIGC内容内容制作/剪辑",
 
