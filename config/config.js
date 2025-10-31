@@ -1,14 +1,14 @@
 var config = {
     /*在这里配置你的基本信息，所有数据以字符串形式给出*/
-    name: "阿斌",
+    name: "王斌",
     sex: "男",
     age: "23",
-    phone: "195607_____",
-    email: "10932_____@qq.com this`s true",
+    phone: "19560712985",
+    email: "1093226803@qq.com this`s true",
     address: "现居山东省青岛市",
-    qq: "10932_____",
+    qq: "1093226803",
     log: "Xming",
-    excpect_work: "Java后端开发/AIGC内容内容制作/剪辑",
+    excpect_work: "前端开发/Java后端开发/AIGC制作",
 
 
     /*在这里配置首页的座右铭集合*/
@@ -21,12 +21,12 @@ var config = {
     /*在这里配置首页的见面信息，你可以内嵌HTML标签以调整格式*/
     welcome: "倘若南风知我意<br>" +
              "莫将晚霞落黄昏<br>" +
-             "你好，我是阿斌，青岛滨海学院计科大三在读生<br>" +
+             "你好，我是阿斌，青岛滨海学院计科大四在读生<br>" +
              "很高兴见到你!",
 
 
     /*在这里配置关于我的信息，你可以内嵌HTML标签以调整格式*/
-    about: "<p>你好！我是阿斌，性别男，青岛滨海学院大三在读。我期望的工作岗位是Java后端开发。</p>" +
+    about: "<p>你好！我是王斌，性别男，青岛滨海学院大四在读。我期望的工作岗位是Java后端开发。</p>" +
         "<p>我有着较多的Java编程经验，计算机基础知识掌握扎实，能够在工作中很好的完成自己的任务。此外，我有着充满激情的工作态度，团队协同作战能力强，同时我也具备独立开发的能力，擅于发现并解决问题。我的执行力强、责任感高、集体荣誉感强、敢于担当，能够接受加班或出差等安排</p>" +
         "<p>十分期待与您的联系!</p>",
 
@@ -67,7 +67,7 @@ var config = {
      * 通过查看实际效果以调整字题长度
      */
     portfolio: [
-        ["","","暂无项目","正在学习"]
+        ["","","课程管理系统/苍穹外卖","正在学习"]
         // ["./images/pro-1.png", "http://1.15.234.109:8000/", "个人博客", "这里记录了我的Java后端学习笔记<br>持续更新"],
         // ["./images/pro-2.png", "https://github.com/happysnaker/Gobang", "智能人机对战五子棋", "采用C++编写的智能五子棋人机对战<br>2021/7/23"],
         // ["https://pic3.zhimg.com/80/v2-d9766956d5c85c2780e4c5008fd946ca_1440w.jpg", "https://github.com/happysnaker/StudentsManageSystem", "学生管理系统", "C语言+AVL树+多重双向表实现"]
@@ -81,7 +81,7 @@ var config = {
      */
     work: [
         //如果您内有工作经历，您可以采取下列写法
-        ["————————", "", "<p>暂无工作经历，期待您的联系。</p>"]
+        ["————————", "", "<p>在校期间为多家公司AIGC外包，期待您的联系。</p>"]
         
         // ["2020/7/1 — 2021/8/10", "<br>阎王殿实习生",
         //     "<p><strong>阎王殿研发部</strong></p>" +
@@ -120,7 +120,7 @@ var config = {
      */
     icon: [
         // ["./svg/LeetCode.svg", "https://leetcode-cn.com/u/happysnaker/", "我的力扣主页"],
-        ["./svg/github.svg", "https://github.com/Keyboard-Edward/", "我的GitHub主页"],
+        // ["./svg/github.svg", "https://github.com/Keyboard-Edward/", "我的GitHub主页"],
         // ["./svg/博客.svg", "http://1.15.234.109:8000", "我的个人博客"],
         // ["./svg/掘金.svg", "https://juejin.cn/user/3853167638625000", "我的掘金主页"],
         // ["./svg/知乎.svg", "https://www.zhihu.com/people/tian-xia-you-dao-81", "我的知乎主页"]
