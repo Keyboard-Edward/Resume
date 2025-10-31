@@ -53,10 +53,10 @@ var config = {
         "     <li>熟悉JavaIO、多线程、集合等基础框架。</li>" +
         "     <li>熟悉SQL语句编写以及调优。</li>" +
         "     <li>熟悉基本Linux命令操作。</li>" +
-        "     <li>熟悉Spring Boot、Mybatis等框架的使用，了解其原理与机制。</li>" +
-        "     <li>熟悉缓存、消息等机制。</li>" +
+        "     <li>熟悉Spring Boot、Mybatis等框架的使用，了解其原理与机制。</li>"  +
         "     <li>了解分布式系统的设计与应用。</li>" +
-        "     <li>熟悉HTML、CSS、JavaScript以及相应前端知识。</li>" +
+        "     <li>了解uniapp,RuoYi框架的使用。</li>" +
+        "     <li>熟悉Vue,HTML、CSS、JavaScript以及相应前端知识。</li>" +
         " </ul>",
 
 
